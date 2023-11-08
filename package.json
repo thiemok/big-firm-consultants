@@ -1,0 +1,14 @@
+{
+  "name": "big-firm-consultants",
+  "version": "1.0.0",
+  "dependencies": {},
+  "module": "index.ts",
+  "type": "module",
+  "workspaces": ["packages/*"],
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
