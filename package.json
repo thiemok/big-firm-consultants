@@ -1,5 +1,6 @@
 {
   "name": "big-firm-consultants",
+  "license": "MIT",
   "version": "1.0.0",
   "dependencies": {},
   "module": "index.ts",
